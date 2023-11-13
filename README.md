@@ -7,7 +7,7 @@ You can either view each file individually or you can download the .ZIP folder i
 
 ## Watch the Video! 📺
 Through watching the video (link below), you can create this website by following the tutorial while improving your web development skills. Then you will soon be able to create websites on your own, without the need for any help.
-### 👉 Coming Soon!
+### 👉 https://youtu.be/RmSqU0nOkR0
 
 ## Join the Discord Community! 💬
 If you need support while trying to build your own website, make sure to ask someone in the discord community! Everyone is always friendly and we're there to support one another while we each work on our own individual projects.
